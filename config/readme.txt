@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 [user]
 	name = smartsmilex
 [user]
@@ -5,3 +6,9 @@
 	
 [credential]
     helper = winstore
+=======
+readme
+22
+
+
+>>>>>>> f8cd7a85a6fbaee06feff3e88705966153cee9c3
