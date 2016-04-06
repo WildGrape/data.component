@@ -1,5 +1,6 @@
 [user]
 	name = smartsmilex
 [user]
-	email = smartsmile@qq.com
-	
+	123email = smartsmile@qq.com
+[credential]
+    helper = store
